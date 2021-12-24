@@ -9,7 +9,7 @@ I actually felt this interest in my early 30's but just found my passion a decad
 - 🌱 I’m currently learning ...
   * C & C++
   * Java
-  * Javascript
+  * Javascript and Full-Stack Web Development
 
 - 📫 How to reach me ...
 You can send me email to soulmoon888@gmail.com
