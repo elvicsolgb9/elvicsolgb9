@@ -10,6 +10,9 @@ I actually felt this interest in my early 30's but just found my passion a decad
   * C & C++
   * Java
   * Javascript and Full-Stack Web Development
+  * PHP
+  * Clojure 
+  * 'As of late I explored FP and was hooked by the beauty & elegance of it'
 
 - 📫 How to reach me ...
 You can send me email to soulmoon888@gmail.com
